@@ -85,4 +85,4 @@ The GitHub action takes the following inputs:
 # Tributes
 
 This action is based on the work of [Hiero Solo](https://github.com/hiero-ledger/solo).
-Without the great help of [Timo](https://github.com/timo0), [Nathan](https://github.com/nathanklick), and [Lenin](https://github.com/leninmehedy) this action would not exist.
+Without the great help of [Timo](https://github.com/timo0), [Nathan](https://github.com/nathanklick), and [Lenin](https://github.com/leninmehedy) this action would not exist for sure.
