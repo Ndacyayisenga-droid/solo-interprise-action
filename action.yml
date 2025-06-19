@@ -84,6 +84,12 @@ runs:
       with:
         python-version: "3.10"
 
+    - name: Cleanup Previous Runs
+      shell: bash
+      run: |
+        rm -rf ~/.solo
+        kind delete cluster --name solo-e2e || true
+
     - name: Setup Kind
       uses: helm/kind-action@a1b0e391336a6ee6713a0583f8c6240d70863de3 # v1.12.0
       with:
