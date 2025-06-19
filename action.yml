@@ -1,4 +1,4 @@
-name: "Hiero Solo Action"
+name: "Hiero Solo Actions"
 description: "Run a Hiero based network by using the solo tool"
 inputs:
   installMirrorNode:
